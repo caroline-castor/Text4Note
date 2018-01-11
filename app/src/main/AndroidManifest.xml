@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.caroline.textofournote" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:largeHeap="true">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".MainActivityInsertN"
+            android:label="@string/title_activity_main_activity_insert_n"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+
+        <activity
+            android:name=".VisualizarNotasFotos"
+            android:label="@string/title_activity_visualizar_nf"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+
+        <activity
+            android:name=".MainNotasCriadas"
+            android:label="@string/title_activity_main_notas_criadas"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="stateHidden">
+        </activity>
+        <activity
+            android:name=".MainActivityInsertN2"
+            android:label="@string/title_activity_main_activity_insert_n2"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".MainActivityItemTarefa"
+            android:label="@string/title_activity_main_activity_item_tarefa"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".MainActivityAdicionarItem"
+            android:label="@string/title_activity_main_activity_adicionar_item"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".MainNotasFotosCriadas"
+            android:label="@string/NotasFotosCriadas"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+        <activity
+            android:name=".MainActivityListaTarefas"
+            android:label="@string/title_activity_main_activity_lista_tarefas"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
+
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_notas_com_foto" android:name=".MainActivityNotasFoto"> </activity>
+
+        <activity android:theme="@style/AppTheme.NoActionBar" android:name=".ViewImage"> </activity>
+    </application>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+</manifest>

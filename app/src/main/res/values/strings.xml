@@ -1,0 +1,90 @@
+﻿<resources>
+    <string name="app_name">TextoFourNote</string>
+
+<string name="action_settings">Settings</string>
+
+<string name="BtAgregarN"/>
+
+<string name="BtAgregarNota">Adicionar Nota</string>
+
+<string name="BtSair">Sair</string>
+
+<string name="title_activity_main_activity_insert_n">MainActivityInsertN</string>
+
+<string name="TituloN">Titulo</string>
+
+<string name="ContemN">Conteúdo</string>
+
+<string name="AgregarNt">Adicionar</string>
+
+<string name="ButCancel">Cancelar</string>
+
+<string name="AgregarBt">Adicionar</string>
+
+<string name="AgregarNotasRapidas">Adicionar Notas Rápidas</string>
+
+<string name="AgregarNotasLongas">Adicionar Notas Longas</string>
+
+<string name="AgregarListaTarefas">Criar Lista de Tarefas</string>
+
+<string name="title_activity_main_activity_insert_n2">MainActivityIns</string>
+
+<string name="title_activity_main_start">MainStartActivity</string>
+
+<string name="title_activity_main_notas_criadas">MainNotasCriadas</string>
+
+<string name="NotasJaCriadas"/>
+
+<string name="NotasCriadas">Notas Existentes</string>
+ertN2Activity 
+<string name="buttonEliminar">Excluir Nota</string>
+
+<string name="title_activity_activity_main_activity_insert_n_2"> activity_main_activity_insert_n_2 </string>
+
+<string name="title_notas_com_foto"/>
+
+<string name="AgregarUmaTarefa">Adicionar uma Tarefa a Lista</string>
+
+<string name="title_activity_main_activity_item_tarefa">MainActivityItemTarefa</string>
+
+<string name="AgregarBt2">Adicionar Item a Lista de Tarefas</string>
+
+<string name="checked">Tarefa Cumprida</string>
+
+<string name="checked1"/>
+
+<string name="AgregarItem">Adicionar Nova Tarefa a Lista</string>
+
+<string name="ItemTarefa">Item de Tarefa</string>
+
+<string name="confirmarItem"/>
+
+<string name="JaVisto"/>
+
+<string name="AgregarUmItem">Adicionar Item a Lista</string>
+
+<string name="AgregarLista">Adicionar Lista</string>
+
+<string name="title_activity_main_activity_adicionar_item">MainActivityAdicionarItem</string>
+
+<string name="title_activity_main_activity_lista_tarefas">MainActivityListaTarefas</string>
+
+<string name="TarefasCriadas">Tarefas Existentes</string>
+
+<string name="NotasFotosCriadas">Notas com Foto Exustentes</string>
+
+<string name="FinalizarLista">Salvar Lista</string>
+
+<string name="AgregarBtItem">Adicionar Item</string>
+<string name="title_activity_visualizar_nf">Visualizar Nota</string>
+
+<string name="buttonExcluir">Excluir item</string>
+
+<string name="title_activity_main_activity_exclui_item">MainActivityExcluiItem</string>
+
+<string name="butExcluir">Excluir Item</string>
+
+<string name="title_activity_main_inserir_titulo">MainInserirTitulo</string>
+
+<string name="AgregarListaC">Finalizar Nota</string>
+</resources>
